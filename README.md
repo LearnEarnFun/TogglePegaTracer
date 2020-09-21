@@ -5,5 +5,5 @@ Chrome extension that add button "Toggle Pega " ruleset for Tracer Configuration
 That extension can be downloaded from  Chrome Store and enable it for immediate effect
 
 # screenshot
-![screenshot]("https://github.com/LearnEarnFun/TogglePegaTracer/blob/master/TogglePega.jpg")
-![screenshot]("https://github.com/LearnEarnFun/TogglePegaTracer/blob/master/beforeTracerExtension.jpg")
+![screenshot](https://github.com/LearnEarnFun/TogglePegaTracer/blob/master/TogglePega.jpg)
+![screenshot](https://github.com/LearnEarnFun/TogglePegaTracer/blob/master/beforeTracerExtension.jpg)
